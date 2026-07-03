@@ -67,6 +67,34 @@ Backend developer working mainly in Laravel and Filament — that's what powers 
 
 <img src="./assets/divider.svg" width="100%" height="3" alt="" />
 
+### Live Stats
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=NikFarees&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" width="100%" />
+
+</td>
+<td valign="top" width="50%">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=NikFarees&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" width="100%" />
+
+</td>
+</tr>
+</table>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NikFarees/NikFarees/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NikFarees/NikFarees/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/NikFarees/NikFarees/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<img src="./assets/divider.svg" width="100%" height="3" alt="" />
+
 ### Contact
 
 [![Website](https://img.shields.io/badge/fareeslab.dev-24292F?style=for-the-badge&logo=googlechrome&logoColor=white)](https://fareeslab.dev)
