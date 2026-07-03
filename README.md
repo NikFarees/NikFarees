@@ -1,47 +1,52 @@
-<!-- Banner: replace the URL below with your uploaded banner image -->
-<!-- Upload banner.png to your profile repo, then point src at it, e.g. src="./banner.png" -->
+<!-- Banner: upload banner.png to this repo, or swap src for a hosted URL -->
 <img src="./banner.png" alt="Nik Farees" width="100%" />
 
 # Backend Developer — Laravel & Next.js
 
 Backend developer working mainly in Laravel and Filament — that's what powers the management systems and admin platforms I build. On the frontend side I use Next.js when a project needs one. Between the two I've shipped 3+ management systems and a real-time auction platform serving 100+ concurrent users, plus the Docker setup and CI/CD pipelines behind them. Software Engineering grad from UniKL MIIT (CGPA 3.81).
 
-## Stack
+---
+
+### Stack
 
 **Languages**
 
-![PHP](https://img.shields.io/badge/PHP-e6edf3?style=flat-square&labelColor=161b22&color=161b22)
-![Python](https://img.shields.io/badge/Python-e6edf3?style=flat-square&labelColor=161b22&color=161b22)
-![Java](https://img.shields.io/badge/Java-e6edf3?style=flat-square&labelColor=161b22&color=161b22)
-![C#](https://img.shields.io/badge/C%23-e6edf3?style=flat-square&labelColor=161b22&color=161b22)
-![TypeScript](https://img.shields.io/badge/TypeScript-e6edf3?style=flat-square&labelColor=161b22&color=161b22)
-![JavaScript](https://img.shields.io/badge/JavaScript-e6edf3?style=flat-square&labelColor=161b22&color=161b22)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 **Backend**
 
-![Laravel](https://img.shields.io/badge/Laravel-e6edf3?style=flat-square&labelColor=161b22&color=161b22)
-![Filament](https://img.shields.io/badge/Filament-e6edf3?style=flat-square&labelColor=161b22&color=161b22)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-e6edf3?style=flat-square&labelColor=161b22&color=161b22)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Filament](https://img.shields.io/badge/Filament-FDAE4B?style=for-the-badge&logo=laravel&logoColor=black)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 
 **Frontend**
 
-![Next.js](https://img.shields.io/badge/Next.js-e6edf3?style=flat-square&labelColor=161b22&color=161b22)
-![React](https://img.shields.io/badge/React-e6edf3?style=flat-square&labelColor=161b22&color=161b22)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 **DevOps**
 
-![Docker](https://img.shields.io/badge/Docker-e6edf3?style=flat-square&labelColor=161b22&color=161b22)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-e6edf3?style=flat-square&labelColor=161b22&color=161b22)
-![Linux](https://img.shields.io/badge/Linux-e6edf3?style=flat-square&labelColor=161b22&color=161b22)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-e6edf3?style=flat-square&labelColor=161b22&color=161b22)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 
 **Database**
 
-![MySQL](https://img.shields.io/badge/MySQL-e6edf3?style=flat-square&labelColor=161b22&color=161b22)
-![SQLite](https://img.shields.io/badge/SQLite-e6edf3?style=flat-square&labelColor=161b22&color=161b22)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-e6edf3?style=flat-square&labelColor=161b22&color=161b22)
-![Supabase](https://img.shields.io/badge/Supabase-e6edf3?style=flat-square&labelColor=161b22&color=161b22)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-## Contact
+---
 
-[fareeslab.dev](https://fareeslab.dev) · [linkedin.com/in/nikfarees](https://linkedin.com/in/nikfarees) · [nfarees.faizal@gmail.com](mailto:nfarees.faizal@gmail.com)
+### Contact
+
+[![Website](https://img.shields.io/badge/fareeslab.dev-24292F?style=for-the-badge&logo=googlechrome&logoColor=white)](https://fareeslab.dev)
+[![LinkedIn](https://img.shields.io/badge/nikfarees-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nikfarees)
+[![Email](https://img.shields.io/badge/nfarees.faizal@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nfarees.faizal@gmail.com)
