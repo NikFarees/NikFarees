@@ -78,7 +78,7 @@ Backend developer working mainly in Laravel and Filament — that's what powers 
 </td>
 <td valign="top" width="50%">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NikFarees&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" width="100%" />
+<img src="https://streak-stats.demolab.com/?user=NikFarees&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" width="100%" />
 
 </td>
 </tr>
