@@ -73,7 +73,7 @@ Backend developer working mainly in Laravel and Filament — that's what powers 
 <tr>
 <td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=NikFarees&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" width="100%" />
+<img src="https://github-stats-extended.vercel.app/api?username=NikFarees&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" width="100%" />
 
 </td>
 <td valign="top" width="50%">
