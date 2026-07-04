@@ -91,6 +91,65 @@ Backend developer working mainly in Laravel and Filament — that's what powers 
 </picture>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 1,980 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 25 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   1951 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.47 % 
+Tuesday                  1738 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.78 % 
+Wednesday                2180 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.29 % 
+Thursday                 2458 commits        █████░░░░░░░░░░░░░░░░░░░░   19.49 % 
+Friday                   2255 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.88 % 
+Saturday                 1536 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.18 % 
+Sunday                   492 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kuala_Lumpur
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in PHP** 
+
+```text
+PHP                      21 repos            ██████████░░░░░░░░░░░░░░░   38.89 % 
+TypeScript               7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.96 % 
+JavaScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
+Blade                    4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
+Dart                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+```
+
+
+
+
+ Last Updated on 04/07/2026 01:25:31 UTC
 <!--END_SECTION:waka-->
 
 <img src="./assets/divider.svg" width="100%" height="3" alt="" />
