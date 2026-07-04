@@ -1,11 +1,9 @@
 <!-- Banner: upload banner.png to this repo, or swap src for a hosted URL -->
 <img src="./banner.png" alt="Nik Farees" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1500&color=58A6FF&center=true&vCenter=true&width=600&lines=Backend+Developer;Laravel+%26+Filament;Next.js+when+needed;Auction+platform+-+100%2B+concurrent+users" alt="Typing SVG" />
+# Backend Developer: Laravel & Next.js
 
-# Backend Developer — Laravel & Next.js
-
-Backend developer working mainly in Laravel and Filament — that's what powers the management systems and admin platforms I build. On the frontend side I use Next.js when a project needs one. Between the two I've shipped 3+ management systems and a real-time auction platform serving 100+ concurrent users, plus the Docker setup and CI/CD pipelines behind them. Software Engineering grad from UniKL MIIT (CGPA 3.81).
+Backend developer working mainly in Laravel and Filament. That's what powers the management systems and admin platforms I build. On the frontend side I use Next.js when a project needs one. Between the two I've shipped 3+ management systems and a real-time auction platform serving 100+ concurrent users, plus the Docker setup and CI/CD pipelines behind them. Software Engineering grad from UniKL MIIT (CGPA 3.81).
 
 <img src="./assets/divider.svg" width="100%" height="3" alt="" />
 
@@ -93,19 +91,7 @@ Backend developer working mainly in Laravel and Filament — that's what powers 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
 
-**🐱 My GitHub Data** 
-
-> 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 1,980 Contributions in the Year 2026
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 25 Public Repositories 
- > 
-> 🔑 0 Private Repositories 
- > 
-📅 **I'm Most Productive on Thursday** 
+**I'm Most Productive on Thursday** 
 
 ```text
 Monday                   1951 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.47 % 
