@@ -91,34 +91,10 @@ Backend developer working mainly in Laravel and Filament. That's what powers the
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
 
-**I'm Most Productive on Thursday** 
-
-```text
-Monday                   1951 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.47 % 
-Tuesday                  1738 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.78 % 
-Wednesday                2180 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.29 % 
-Thursday                 2458 commits        █████░░░░░░░░░░░░░░░░░░░░   19.49 % 
-Friday                   2255 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.88 % 
-Saturday                 1538 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.19 % 
-Sunday                   492 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
-```
-
-
 📊 **This Week I Spent My Time On** 
 
 ```text
-🕑︎ Time Zone: Asia/Kuala_Lumpur
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
 🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
 No Activity Tracked This Week
 ```
 
@@ -135,7 +111,7 @@ Dart                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 04/07/2026 01:55:47 UTC
+ Last Updated on 04/07/2026 02:19:24 UTC
 <!--END_SECTION:waka-->
 
 <img src="./assets/divider.svg" width="100%" height="3" alt="" />
