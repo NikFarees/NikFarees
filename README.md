@@ -89,7 +89,7 @@ Backend developer working mainly in Laravel and Filament. That's what powers the
 </picture>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-144%20hrs%205%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-149%20hrs%2053%20mins-blue?style=flat)
 
 **I Mostly Code in PHP** 
 
@@ -104,7 +104,7 @@ Dart                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 07/07/2026 04:08:54 UTC
+ Last Updated on 08/07/2026 03:33:47 UTC
 <!--END_SECTION:waka-->
 
 <img src="./assets/divider.svg" width="100%" height="3" alt="" />
