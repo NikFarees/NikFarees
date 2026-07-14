@@ -94,17 +94,17 @@ Backend developer working mainly in Laravel and Filament. That's what powers the
 **I Mostly Code in PHP** 
 
 ```text
-PHP                      21 repos            ██████████░░░░░░░░░░░░░░░   38.89 % 
-TypeScript               7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.96 % 
-JavaScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
-Blade                    4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
-Dart                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+PHP                      21 repos            ██████████░░░░░░░░░░░░░░░   38.18 % 
+TypeScript               8 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.55 % 
+JavaScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.27 % 
+Blade                    4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.27 % 
+Dart                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
 ```
 
 
 
 
- Last Updated on 13/07/2026 03:43:27 UTC
+ Last Updated on 14/07/2026 03:18:31 UTC
 <!--END_SECTION:waka-->
 
 <img src="./assets/divider.svg" width="100%" height="3" alt="" />
