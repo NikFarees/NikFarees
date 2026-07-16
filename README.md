@@ -89,22 +89,22 @@ Backend developer working mainly in Laravel and Filament. That's what powers the
 </picture>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-169%20hrs%2051%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-175%20hrs%2029%20mins-blue?style=flat)
 
 **I Mostly Code in PHP** 
 
 ```text
-PHP                      21 repos            ██████████░░░░░░░░░░░░░░░   38.18 % 
-TypeScript               8 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.55 % 
-JavaScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.27 % 
-Blade                    4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.27 % 
-Dart                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
+PHP                      21 repos            █████████░░░░░░░░░░░░░░░░   37.50 % 
+TypeScript               8 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Blade                    5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
+JavaScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+Dart                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
 ```
 
 
 
 
- Last Updated on 15/07/2026 03:18:13 UTC
+ Last Updated on 16/07/2026 03:25:26 UTC
 <!--END_SECTION:waka-->
 
 <img src="./assets/divider.svg" width="100%" height="3" alt="" />
