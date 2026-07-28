@@ -89,22 +89,48 @@ Backend developer working mainly in Laravel and Filament. That's what powers the
 </picture>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-203%20hrs%2018%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-199%20hrs%203%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-201%20hrs%2036%20mins-blue?style=flat)
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 13 hrs 43 mins (94.53%)
+
+✍️ 15,892 lines written by AI, 157 lines written by hand (99.02% AI-written)
+
+🔤 232,182,877 Input Tokens, 960,086 Output Tokens
+
+💵 $820.22 Estimated AI Cost This Week
+
+🧠 24 AI Sessions, 135 AI Prompts
+
+Opus                     13,820 lines        ████████████████████░░░░░   80.23 % 
+Sonnet                   3,405 lines         █████░░░░░░░░░░░░░░░░░░░░   19.77 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.02% of written lines came from AI
+📚 Verbose Prompter — average 1,785 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 0.99% of changed lines were hand-edited
+```
 
 **I Mostly Code in PHP** 
 
 ```text
-PHP                      21 repos            █████████░░░░░░░░░░░░░░░░   37.50 % 
-TypeScript               8 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-Blade                    5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
-JavaScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-Dart                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+PHP                      21 repos            █████████░░░░░░░░░░░░░░░░   36.84 % 
+TypeScript               9 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
+Blade                    5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
+JavaScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
+Dart                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
 ```
 
 
 
 
- Last Updated on 27/07/2026 03:52:22 UTC
+ Last Updated on 28/07/2026 03:22:53 UTC
 <!--END_SECTION:waka-->
 
 <img src="./assets/divider.svg" width="100%" height="3" alt="" />
