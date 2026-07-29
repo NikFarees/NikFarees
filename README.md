@@ -89,48 +89,44 @@ Backend developer working mainly in Laravel and Filament. That's what powers the
 </picture>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-199%20hrs%203%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-201%20hrs%2036%20mins-blue?style=flat)
-
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 hrs 43 mins (94.53%)
+⏱ AI Coding Time: 15 hrs 21 mins (94.04%)
 
-✍️ 15,892 lines written by AI, 157 lines written by hand (99.02% AI-written)
+✍️ 15,958 lines written by AI, 158 lines written by hand (99.02% AI-written)
 
-🔤 232,182,877 Input Tokens, 960,086 Output Tokens
+🔤 272,723,515 Input Tokens, 1,047,242 Output Tokens
 
-💵 $820.22 Estimated AI Cost This Week
+💵 $943.15 Estimated AI Cost This Week
 
-🧠 24 AI Sessions, 135 AI Prompts
+🧠 28 AI Sessions, 188 AI Prompts
 
-Opus                     13,820 lines        ████████████████████░░░░░   80.23 % 
-Sonnet                   3,405 lines         █████░░░░░░░░░░░░░░░░░░░░   19.77 % 
+Opus                     13,820 lines        ████████████████████░░░░░   79.67 % 
+Sonnet                   3,527 lines         █████░░░░░░░░░░░░░░░░░░░░   20.33 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.02% of written lines came from AI
-📚 Verbose Prompter — average 1,785 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 0.99% of changed lines were hand-edited
+📚 Verbose Prompter — average 1,659 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 1.32% of changed lines were hand-edited
 ```
 
 **I Mostly Code in PHP** 
 
 ```text
-PHP                      21 repos            █████████░░░░░░░░░░░░░░░░   36.84 % 
-TypeScript               9 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
-Blade                    5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
-JavaScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
-Dart                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
+PHP                      21 repos            █████████░░░░░░░░░░░░░░░░   36.21 % 
+TypeScript               9 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
+Blade                    6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
+JavaScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
+Dart                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
 ```
 
 
 
 
- Last Updated on 28/07/2026 03:22:53 UTC
+ Last Updated on 29/07/2026 03:25:22 UTC
 <!--END_SECTION:waka-->
 
 <img src="./assets/divider.svg" width="100%" height="3" alt="" />
