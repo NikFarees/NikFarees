@@ -89,28 +89,32 @@ Backend developer working mainly in Laravel and Filament. That's what powers the
 </picture>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-206%20hrs%2015%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-208%20hrs%2012%20mins-blue?style=flat)
+
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 15 hrs 21 mins (94.04%)
+⏱ AI Coding Time: 12 hrs 30 mins (93.01%)
 
-✍️ 15,958 lines written by AI, 158 lines written by hand (99.02% AI-written)
+✍️ 15,180 lines written by AI, 151 lines written by hand (99.02% AI-written)
 
-🔤 272,723,515 Input Tokens, 1,047,242 Output Tokens
+🔤 136,731,817 Input Tokens, 793,257 Output Tokens
 
-💵 $943.15 Estimated AI Cost This Week
+💵 $532.35 Estimated AI Cost This Week
 
-🧠 28 AI Sessions, 188 AI Prompts
+🧠 24 AI Sessions, 177 AI Prompts
 
-Opus                     13,820 lines        ████████████████████░░░░░   79.67 % 
-Sonnet                   3,527 lines         █████░░░░░░░░░░░░░░░░░░░░   20.33 % 
+Opus                     13,820 lines        █████████████████████░░░░   84.26 % 
+Sonnet                   2,582 lines         ████░░░░░░░░░░░░░░░░░░░░░   15.74 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.02% of written lines came from AI
-📚 Verbose Prompter — average 1,659 characters per prompt
+📄 Detailed Prompter — average 1,371 characters per prompt
 🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 1.32% of changed lines were hand-edited
+🚀 High AI Trust — 1.35% of changed lines were hand-edited
 ```
 
 **I Mostly Code in PHP** 
@@ -126,7 +130,7 @@ Dart                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 29/07/2026 03:25:22 UTC
+ Last Updated on 30/07/2026 03:13:03 UTC
 <!--END_SECTION:waka-->
 
 <img src="./assets/divider.svg" width="100%" height="3" alt="" />
