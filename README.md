@@ -89,32 +89,32 @@ Backend developer working mainly in Laravel and Filament. That's what powers the
 </picture>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-206%20hrs%2032%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-212%20hrs%2010%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-209%20hrs%205%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-214%20hrs%2045%20mins-blue?style=flat)
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 15 hrs 21 mins (93.38%)
+⏱ AI Coding Time: 18 hrs 18 mins (93.67%)
 
-✍️ 14,615 lines written by AI, 513 lines written by hand (96.61% AI-written)
+✍️ 12,811 lines written by AI, 519 lines written by hand (96.11% AI-written)
 
-🔤 176,460,506 Input Tokens, 842,735 Output Tokens
+🔤 365,423,803 Input Tokens, 846,237 Output Tokens
 
-💵 $692.70 Estimated AI Cost This Week
+💵 $1237.42 Estimated AI Cost This Week
 
-🧠 27 AI Sessions, 266 AI Prompts
+🧠 28 AI Sessions, 358 AI Prompts
 
-Opus                     13,536 lines        █████████████████████░░░░   85.60 % 
-Sonnet                   2,277 lines         ████░░░░░░░░░░░░░░░░░░░░░   14.40 % 
+Opus                     8,224 lines         ████████████████░░░░░░░░░   63.00 % 
+Sonnet                   4,829 lines         █████████░░░░░░░░░░░░░░░░   37.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 96.61% of written lines came from AI
-📄 Detailed Prompter — average 1,056 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
-🚀 High AI Trust — 3.59% of changed lines were hand-edited
+🤖 AI-Driven — 96.11% of written lines came from AI
+📄 Detailed Prompter — average 954 characters per prompt
+🔁 Iterative Prompter — average 13 prompts per session
+🚀 High AI Trust — 4.55% of changed lines were hand-edited
 ```
 
 **I Mostly Code in PHP** 
@@ -130,7 +130,7 @@ Dart                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 31/07/2026 03:40:08 UTC
+ Last Updated on 01/08/2026 03:39:34 UTC
 <!--END_SECTION:waka-->
 
 <img src="./assets/divider.svg" width="100%" height="3" alt="" />
